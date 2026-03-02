@@ -35,6 +35,7 @@
 ---
 
 ### 📊 GitHub Stats
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=shakhriyor-dev&theme=radical)
 
 ---
