@@ -1,8 +1,8 @@
 
 <p align="center">
-  ### Salom! 👋 Men bu yerda neon effekt bilan paydo bo'laman:
+ [ ### Salom! 👋 Men bu yerda neon effekt bilan paydo bo'laman:
 
-![Neon Welcome](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Neon Welcome](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)](https://camo.githubusercontent.com/f2a498f6fd22bd284f9036a08cb79bd90defc7b7b8e2e7741b5cf3cb678770fa/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d666f6f746572)
 </p>
 
 <h1 align="center" style="color:#00FF41; text-shadow: 0 0 10px #00FF41, 0 0 20px #00FF41;">
