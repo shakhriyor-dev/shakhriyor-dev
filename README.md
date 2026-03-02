@@ -35,8 +35,7 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakhriyor-dev&show_icons=true&theme=radical)
-
+![YOUR_USERNAME's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakhriyor-dev&show_icons=true&theme=radical)
 ---
 
 ### 🔥 GitHub Streak
