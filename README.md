@@ -38,16 +38,6 @@
 
 ---
 
-## 📈 My GitHub Activity
-## 📊 My GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakhriyor-dev&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shakhriyor-dev&theme=react-dark&area=true&hide_border=true" alt="Activity Graph"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakhriyor-dev&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=shakhriyor-dev&theme=radical)
 
