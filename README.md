@@ -1,5 +1,38 @@
-<h1 align="center">Salom 👋, men Shahriyor</h1>
-<h3 align="center">Frontend Developer | 4 yil tajriba | 1 yil Freelancer</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD6nZj9gexkzDjy/giphy.gif" width="200" alt="Neon animation"/>
+</p>
+
+<h1 align="center" style="color:#00FFF7; text-shadow: 0 0 10px #00FFF7;">
+  Shahriyor Babaxanov
+</h1>
+
+<h3 align="center" style="color:#00FFF7; text-shadow: 0 0 6px #00FFF7;">
+  Frontend Engineer
+</h3>
+
+<p align="center" style="color:#00FFF7; font-weight: bold;">
+  📍 Uzbekistan, Khorezm
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shakhriyor-dev.shakhriyor-dev" alt="Visitors Badge" />
+</p>
+
+---
+
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&glow=true" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&glow=true" alt="CSS" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&glow=true" alt="Sass" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&glow=true" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&glow=true" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&glow=true" alt="Python" />
+  <img src="https://img.shields.io/badge/PyPy-000000?style=for-the-badge&logo=python&logoColor=white&glow=true" alt="PyPy" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&glow=true" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&glow=true" alt="GitHub" />
+</p>
 
 ---
 
