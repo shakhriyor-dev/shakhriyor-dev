@@ -1,8 +1,8 @@
 
 <p align="center">
-  <img src="### Salom! 👋 Men bu yerda neon effekt bilan paydo bo'laman:
+  ### Salom! 👋 Men bu yerda neon effekt bilan paydo bo'laman:
 
-![Neon Welcome](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)" width="300" alt="Profile animation" />
+![Neon Welcome](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 </p>
 
 <h1 align="center" style="color:#00FF41; text-shadow: 0 0 10px #00FF41, 0 0 20px #00FF41;">
