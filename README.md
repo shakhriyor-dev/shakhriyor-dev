@@ -1,13 +1,17 @@
 
-<h1 align="center" style="color:#00FFF7; text-shadow: 0 0 10px #00FFF7;">
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="Matrix rain animation" />
+</p>
+
+<h1 align="center" style="color:#00FF41; text-shadow: 0 0 10px #00FF41, 0 0 20px #00FF41;">
   Shahriyor Babaxanov
 </h1>
 
-<h3 align="center" style="color:#00FFF7; text-shadow: 0 0 6px #00FFF7;">
+<h3 align="center" style="color:#00FF41; text-shadow: 0 0 6px #00FF41;">
   Frontend Engineer
 </h3>
 
-<p align="center" style="color:#00FFF7; font-weight: bold;">
+<p align="center" style="color:#00FF41; font-weight: bold;">
   📍 Uzbekistan, Khorezm
 </p>
 
