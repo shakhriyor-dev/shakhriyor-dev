@@ -35,7 +35,14 @@
 ---
 
 ### 📊 GitHub Stats
-![YOUR_USERNAME's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakhriyor-dev&show_icons=true&theme=radical)
+
+---
+
+## 📈 My GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
+
 ---
 
 ### 🔥 GitHub Streak
