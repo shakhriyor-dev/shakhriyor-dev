@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shahriyor%20Babaxanov&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=75E0FF&center=true&repeat=false&width=1024&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=75E0FF&center=true&repeat=true&width=1024&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ---
 
