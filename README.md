@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" alt="Matrix rain animation" />
+  <img src="" width="300" alt="Matrix rain animation" />
 </p>
 
 <h1 align="center" style="color:#00FF41; text-shadow: 0 0 10px #00FF41, 0 0 20px #00FF41;">
