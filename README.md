@@ -1,15 +1,13 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shahriyor%20Babaxanov&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-<p align="center">
- 
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=75E0FF&center=true&repeat=false&width=1024&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-<h1 align="center" style="color:#00FF41; text-shadow: 0 0 10px #00FF41, 0 0 20px #00FF41;">
-  Shahriyor Babaxanov
-</h1>
+---
 
 <h3 align="center" style="color:#00FF41; text-shadow: 0 0 6px #00FF41;">
   Frontend Engineer
 </h3>
+
 
 <p align="center" style="color:#00FF41; font-weight: bold;">
   📍 Uzbekistan, Khorezm
@@ -40,17 +38,40 @@
 
 ---
 
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/shakhriyor-dev/shakhriyor-dev/blob/output/github-contribution-grid-snake.svg)
+## 👋 About Me
+
+Hi! I’m **[Shakh]** – a passionate developer and tech explorer.  
+
+💻 **What I do:**  
+- Building futuristic UI/UX designs and web apps  
+- Developing AI/ML projects and automation scripts  
+- Exploring open-source contributions and innovative tools  
+
+🌱 **Currently learning:**  
+- Advanced Python & AI/ML frameworks  
+- Modern frontend frameworks (React, Next.js)  
+- Data visualization & interactive dashboards  
+
+🎨 **Interests & Hobbies:**  
+- Neon-themed designs and creative coding  
+- Gaming and interactive experiences  
+- Reading tech blogs and sharing knowledge  
+
+---
+## 📊 GitHub Statistika va Aktivlik
+
+<p align="center">
+
+  <!-- Commitlar grafigi -->
+  ![Commits per hour](https://github-readme-activity-graph.vercel.app/graph?username=shakhriyor-dev&theme=react-dark&area=true&hide_border=true)
+</p>
+
+---
+
 
 ---
 
 ### 📫 Contact Me
 [Telegram](https://t.me/sh4khri) | [Portfolio](https://your-portfolio.com)
 
----
 
-### 💡 Qiziqarli fakt
-- 4 yil frontend developer  
-- 1 yil freelancer  
-- HTML, CSS, Sass, Bootstrap, JS, Python, PyPy, Git & GitHub biladi
