@@ -32,12 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shakhriyor-dev&theme=radical)
-
----
-
 ## 👋 About Me
 
 Hi! I’m **[Shakh]** – a passionate developer and tech explorer.  
@@ -58,7 +52,51 @@ Hi! I’m **[Shakh]** – a passionate developer and tech explorer.
 - Reading tech blogs and sharing knowledge  
 
 ---
-## 📊 GitHub Statistika va Aktivlik
+
+### 📈 GitHub Activity Graph:
+
+<p align="center">
+  <a href="https://github.com/shakhriyor-dev">
+    <img align="center"
+         height="150em"
+         src="https://streak-stats.demolab.com?user=shakhriyor-dev&theme=aura&hide_border=false&border_radius=10" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shakhriyor-dev">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shakhriyor-dev&theme=aura"
+    />
+  <a href="https://github.com/shakhriyor-dev">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakhriyor-dev&theme=aura"
+    />
+</p>
+
+<p align="center">
+  <a href="https://github.com/shakhriyor-dev">
+    <img align="center"
+         height="150em"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shakhriyor-dev&theme=aura"
+    />
+  <a href="https://github.com/shakhriyor-dev">
+    <img align="center"
+         height="150em"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shakhriyor-dev&theme=aura&utcOffset=8"
+    />
+</p>
+
+<p align="center">
+ <a href="https://github.com/shakhriyor-dev">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakhriyor-dev&theme=aura"
+    />
+</p>
+</p
 
 <p align="center">
 
@@ -73,6 +111,8 @@ Hi! I’m **[Shakh]** – a passionate developer and tech explorer.
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+secure+channel...;Bypassing+firewall...;Access+Granted+%E2%9C%94;Loading+contact+protocol..." />
 </p>
+
+
 
 <pre>
 
@@ -95,3 +135,5 @@ Hi! I’m **[Shakh]** – a passionate developer and tech explorer.
 └─$ █
 
 </pre>
+
+
