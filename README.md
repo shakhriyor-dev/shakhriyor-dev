@@ -71,28 +71,27 @@ Hi! I’m **[Shakh]** – a passionate developer and tech explorer.
 
 ---
 
-## 💚 Yana ham kuchliroq (green glow effekt bilan)
+## 💀 root@kali:~# establish_connection
 
-```markdown
-<h2>🟢 root@yourname:~# contact</h2>
-
-<p>
-<code style="color:#00ff00; background-color:#000000;">
-$ sudo access --contact <br><br>
-
-[✓] Email     → yourgmail@gmail.com <br>
-[✓] Telegram  → https://t.me/yourusername <br>
-[✓] LinkedIn  → https://linkedin.com/in/yourusername <br>
-[✓] GitHub    → https://github.com/yourusername <br><br>
-
-$ connection --status <br>
->> SECURE CHANNEL ESTABLISHED 🔐
-</code>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+secure+channel...;Bypassing+firewall...;Access+Granted+%E2%9C%94;Loading+contact+protocol..." />
 </p>
 
-[+] Email     : yourgmail@gmail.com
-[+] Telegram  : https://t.me/yourusername
-[+] LinkedIn  : https://linkedin.com/in/yourusername
+```bash
+┌──(root㉿kali)-[~/recon]
+└─$ whoami
+> your_name
+
+┌──(root㉿kali)-[~/recon]
+└─$ sudo ./contact_protocol.sh
+
+[✓] Email     : yourgmail@gmail.com
+[✓] Telegram  : https://t.me/yourusername
+[✓] LinkedIn  : https://linkedin.com/in/yourusername
+[✓] GitHub    : https://github.com/yourusername
+
+┌──(root㉿kali)-[~/recon]
+└─$ echo "Encrypted tunnel established 🔐"name
 [+] GitHub    : https://github.com/yourusername
 
 ┌──(root㉿yourname)-[~/contact]
