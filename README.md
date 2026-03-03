@@ -71,7 +71,30 @@ Hi! I’m **[Shakh]** – a passionate developer and tech explorer.
 
 ---
 
-### 📫 Contact Me
-[Telegram](https://t.me/sh4khri) | [Portfolio](https://your-portfolio.com)
+## 💚 Yana ham kuchliroq (green glow effekt bilan)
 
+```markdown
+<h2>🟢 root@yourname:~# contact</h2>
+
+<p>
+<code style="color:#00ff00; background-color:#000000;">
+$ sudo access --contact <br><br>
+
+[✓] Email     → yourgmail@gmail.com <br>
+[✓] Telegram  → https://t.me/yourusername <br>
+[✓] LinkedIn  → https://linkedin.com/in/yourusername <br>
+[✓] GitHub    → https://github.com/yourusername <br><br>
+
+$ connection --status <br>
+>> SECURE CHANNEL ESTABLISHED 🔐
+</code>
+</p>
+
+[+] Email     : yourgmail@gmail.com
+[+] Telegram  : https://t.me/yourusername
+[+] LinkedIn  : https://linkedin.com/in/yourusername
+[+] GitHub    : https://github.com/yourusername
+
+┌──(root㉿yourname)-[~/contact]
+└─$ echo "Connection established..."
 
