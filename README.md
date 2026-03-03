@@ -68,32 +68,30 @@ Hi! I’m **[Shakh]** – a passionate developer and tech explorer.
 
 ---
 
-
----
-
-## 💀 root@kali:~# establish_connection
-
+## Contact Me
+<!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+secure+channel...;Bypassing+firewall...;Access+Granted+%E2%9C%94;Loading+contact+protocol..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=650&lines=Booting+Kali+Linux...;Scanning+Target...;Bypassing+Firewall...;Access+Granted+✔;Secure+Channel+Established+🔐" />
 </p>
 
-```bash
+<pre>
+
 ┌──(root㉿kali)-[~/recon]
 └─$ whoami
-> your_name
+> shakh
 
 ┌──(root㉿kali)-[~/recon]
-└─$ sudo ./contact_protocol.sh
+└─$ sudo ./secure_contact.sh
 
-[✓] Email     : yourgmail@gmail.com
-[✓] Telegram  : https://t.me/yourusername
-[✓] LinkedIn  : https://linkedin.com/in/yourusername
-[✓] GitHub    : https://github.com/yourusername
+[✓] Email     : <a href="mailto:shakh2616@gmail.com" style="color:#00ff00; text-decoration:none; text-shadow:0 0 5px #00ff00,0 0 10px #00ff00;">shakh2616@gmail.com</a>
+[✓] Telegram  : <a href="https://t.me/sh4khri" style="color:#00ff00; text-decoration:none; text-shadow:0 0 5px #00ff00,0 0 10px #00ff00;">t.me/sh4khri</a>
+[✓] LinkedIn  : <a href="https://linkedin.com/in/yourusername" style="color:#00ff00; text-decoration:none; text-shadow:0 0 5px #00ff00,0 0 10px #00ff00;">linkedin.com/in/shakh_dev</a>
+[✓] GitHub    : <a href="https://github.com/shakhriyor-dev" style="color:#00ff00; text-decoration:none; text-shadow:0 0 5px #00ff00,0 0 10px #00ff00;">github.com/shakhriyor-dev</a>
 
 ┌──(root㉿kali)-[~/recon]
-└─$ echo "Encrypted tunnel established 🔐"name
-[+] GitHub    : https://github.com/yourusername
+└─$ echo "ACCESS GRANTED"
 
-┌──(root㉿yourname)-[~/contact]
-└─$ echo "Connection established..."
+┌──(root㉿kali)-[~/recon]
+└─$ █
 
+</pre>
