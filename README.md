@@ -69,8 +69,7 @@ Hi! I’m **[Shakh]** – a passionate developer and tech explorer.
 ---
 
 ## 🐍 Contribution Snake
-
-![snake animation](https://github.com/shakhriyor-dev/shakhriyor-dev/blob/main/dist/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/shakhriyor-dev/shakhriyor-dev/blob/main/dist/github-contribution-grid-snake.svg)
 
 ---
 
