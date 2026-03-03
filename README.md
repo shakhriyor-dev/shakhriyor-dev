@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shahriyor%20Babaxanov&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001100,50:00ff00,100:003300&height=200&section=header&text=Shahriyor%20Babaxanov&fontSize=40&fontColor=000000&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=75E0FF&center=true&repeat=true&width=1024&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ff00&center=true&repeat=true&width=1024&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ---
 
@@ -100,13 +100,13 @@ Hi! I’m **[Shakh]** – a passionate developer and tech explorer.
 
 <p align="center">
 
-  <!-- Commitlar grafigi -->
-  ![Commits per hour](https://github-readme-activity-graph.vercel.app/graph?username=shakhriyor-dev&theme=react-dark&area=true&hide_border=true)
+![Commits per hour](https://github-readme-activity-graph.vercel.app/graph?username=shakhriyor-dev&theme=chartreuse-dark&area=true&hide_border=true)
+
 </p>
 
 ---
 
-## Contact Me
+## Contact Me:
 <!-- TYPING EFFECT -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+secure+channel...;Bypassing+firewall...;Access+Granted+%E2%9C%94;Loading+contact+protocol..." />
@@ -136,4 +136,8 @@ Hi! I’m **[Shakh]** – a passionate developer and tech explorer.
 
 </pre>
 
+---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Session+Terminated...;Goodbye...;See+You+Next+Time..." />
+</p>
