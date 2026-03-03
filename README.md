@@ -71,7 +71,7 @@ Hi! I’m **[Shakh]** – a passionate developer and tech explorer.
 ## Contact Me
 <!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=650&lines=Booting+Kali+Linux...;Scanning+Target...;Bypassing+Firewall...;Access+Granted+✔;Secure+Channel+Established+🔐" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+secure+channel...;Bypassing+firewall...;Access+Granted+%E2%9C%94;Loading+contact+protocol..." />
 </p>
 
 <pre>
