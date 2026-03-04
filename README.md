@@ -105,6 +105,12 @@ Hi! I’m **[Shakh]** – a passionate developer and tech explorer.
 
 </p>
 
+---
+
+## 🐍 Contribution Snake 
+
+<p align="center"> <img src="https://raw.githubusercontent.com/shakhriyor-dev/shakhriyor-dev/output/github-contribution-grid-snake.svg" alt="snake" /> </p>
+
 
 ---
 
