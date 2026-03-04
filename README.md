@@ -144,8 +144,6 @@ Hi! I’m **[Shakh]** – a passionate developer and tech explorer.
 
 </pre>
 
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Session+Terminated...;Goodbye...;See+You+Next+Time..." />
 </p>
