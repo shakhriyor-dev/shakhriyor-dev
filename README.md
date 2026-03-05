@@ -29,7 +29,6 @@
 ![PyPy](https://img.shields.io/badge/PyPy-000000?style=for-the-badge&logo=python&logoColor=white&glow=true)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&glow=true)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&glow=true)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&glow=true)
 
 ---
 
