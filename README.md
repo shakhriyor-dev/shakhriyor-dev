@@ -120,10 +120,7 @@ Hi! I’m **[Shakh]** – a passionate developer and tech explorer.
 </p>
 
 
-[✓] Email     : <a href="mailto:shakh2616@gmail.com" style="color:#00ff00; text-decoration:none; text-shadow:0 0 5px #00ff00,0 0 10px #00ff00;">shakh2616@gmail.com</a>
-[✓] Telegram  : <a href="https://t.me/sh4khri" style="color:#00ff00; text-decoration:none; text-shadow:0 0 5px #00ff00,0 0 10px #00ff00;">t.me/sh4khri</a>
-[✓] LinkedIn  : <a href="https://linkedin.com/in/yourusername" style="color:#00ff00; text-decoration:none; text-shadow:0 0 5px #00ff00,0 0 10px #00ff00;">linkedin.com/in/shakh_dev</a>
-[✓] GitHub    : <a href="https://github.com/shakhriyor-dev" style="color:#00ff00; text-decoration:none; text-shadow:0 0 5px #00ff00,0 0 10px #00ff00;">github.com/shakhriyor-dev</a>
+
 <pre>
 
 ┌──(root㉿kali)-[~/recon]
@@ -132,6 +129,11 @@ Hi! I’m **[Shakh]** – a passionate developer and tech explorer.
 
 ┌──(root㉿kali)-[~/recon]
 └─$ sudo ./secure_contact.sh
+
+[✓] Email     : <a href="mailto:shakh2616@gmail.com" style="color:#00ff00; text-decoration:none; text-shadow:0 0 5px #00ff00,0 0 10px #00ff00;">shakh2616@gmail.com</a>
+[✓] Telegram  : <a href="https://t.me/sh4khri" style="color:#00ff00; text-decoration:none; text-shadow:0 0 5px #00ff00,0 0 10px #00ff00;">t.me/sh4khri</a>
+[✓] LinkedIn  : <a href="https://linkedin.com/in/yourusername" style="color:#00ff00; text-decoration:none; text-shadow:0 0 5px #00ff00,0 0 10px #00ff00;">linkedin.com/in/shakh_dev</a>
+[✓] GitHub    : <a href="https://github.com/shakhriyor-dev" style="color:#00ff00; text-decoration:none; text-shadow:0 0 5px #00ff00,0 0 10px #00ff00;">github.com/shakhriyor-dev</a>
 
 ┌──(root㉿kali)-[~/recon]
 └─$ echo "ACCESS GRANTED"
