@@ -58,7 +58,7 @@ Hi! I’m **[Shakh]** – a passionate developer and tech explorer.
 <p align="center">
   <a href="https://github.com/shakhriyor-dev">
     <img align="center"
-         height="150em"
+         height="150em"  
          src="https://streak-stats.demolab.com?user=shakhriyor-dev&theme=aura&hide_border=false&border_radius=10" />
   </a>
 </p>
