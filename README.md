@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ff00&center=true&repeat=true&width=1024&lines=Welcome+to+my+profile!)](https://git.io/typing-svg) 
 
 ---
-
+ 
 <h3 align="center" style="color:#00FF41; text-shadow: 0 0 6px #00FF41;"> 
   Frontend Engineer 
 </h3> 
