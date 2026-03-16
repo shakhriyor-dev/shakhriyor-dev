@@ -48,8 +48,8 @@ Hi! I’m **[Shakh]** – a passionate developer and tech explorer.
 
 🎨 **Interests & Hobbies:**  
 - Neon-themed designs and creative coding  
-- Gaming and interactive experiences  
-- Reading tech blogs and sharing knowledge  
+- Gaming and interactive experiences   
+- Reading tech blogs and sharing knowledge    
 
 --- 
 
