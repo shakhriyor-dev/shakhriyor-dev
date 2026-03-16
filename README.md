@@ -67,7 +67,7 @@ Hi! I’m **[Shakh]** – a passionate developer and tech explorer.
   <a href="https://github.com/shakhriyor-dev">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shakhriyor-dev&theme=aura"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shakhriyor-dev&theme=aura" 
     />
   <a href="https://github.com/shakhriyor-dev">
     <img align="center"
