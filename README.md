@@ -79,7 +79,7 @@ Hi! I’m **[Shakh]** – a passionate developer and tech explorer.
 <p align="center">
   <a href="https://github.com/shakhriyor-dev">
     <img align="center"
-         height="150em"
+         height="150em" 
          src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shakhriyor-dev&theme=aura"
     />
   <a href="https://github.com/shakhriyor-dev">
