@@ -10,7 +10,7 @@
 
   
 <p align="center" style="color:#00FF41; font-weight: bold;">
-  📍 Uzbekistan, Khorezm
+  📍 Uzbekistan, Khorezm 
 </p>
 
 <p align="center">
