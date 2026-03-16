@@ -51,7 +51,7 @@ Hi! I’m **[Shakh]** – a passionate developer and tech explorer.
 - Gaming and interactive experiences  
 - Reading tech blogs and sharing knowledge  
 
----
+--- 
 
 ### 📈 GitHub Activity Graph:
 
