@@ -147,4 +147,4 @@ Hi! I’m **[Shakh]** – a passionate developer and tech explorer.
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Session+Terminated...;Goodbye...;See+You+Next+Time..." />
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001100,50:00ff00,100:003300&height=120&section=footer" />     
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001100,50:00ff00,100:003300&height=120&section=footer" />    
