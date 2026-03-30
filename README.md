@@ -35,7 +35,7 @@
 
 ## 👋 About Me
 
-Hi! I’m **[Shakh]** – a passionate developer and tech explorer.  
+Hi! I’m **[Shakh]** – a passionate developer and tech explorer. 
 
 💻 **What I do:**  
 - Building futuristic UI/UX designs and web apps  
