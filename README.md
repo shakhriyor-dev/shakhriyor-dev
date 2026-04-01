@@ -45,7 +45,7 @@ Hi! I’m **Shakh** – a passionate developer and tech explorer.
 🌱 **Currently learning:**  
 - Advanced Python & AI/ML frameworks  
 - Modern frontend frameworks (React, Next.js)  
-- Data visualization & interactive dashboards  
+- Data visualization & interactive dashboards 
 
 🎨 **Interests & Hobbies:**  
 - Neon-themed designs and creative coding  
