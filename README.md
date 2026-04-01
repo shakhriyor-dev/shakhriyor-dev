@@ -40,7 +40,7 @@ Hi! I’m **Shakh** – a passionate developer and tech explorer.
 💻 **What I do:**
 - Building futuristic UI/UX designs and web apps
 - Developing AI/ML projects and automation scripts
-- Exploring open-source contributions and innovative tools  
+- Exploring open-source contributions and innovative tools 
 
 🌱 **Currently learning:**  
 - Advanced Python & AI/ML frameworks  
