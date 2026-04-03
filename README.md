@@ -13,7 +13,7 @@
   📍 Uzbekistan, Khorezm
 </p>
 
-<p align="center">
+<p align="center">  
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shakhriyor-dev.shakhriyor-dev" alt="Visitors Badge" />
 </p>
 
