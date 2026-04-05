@@ -4,7 +4,7 @@
 
 ---
  
-<h3 align="center" style="color:#00FF41;  text-shadow: 0 0 6px #00FF41;">
+<h3 align="center" style="color:#00FF41; text-shadow: 0 0 6px #00FF41;">
   Frontend Engineer
 </h3>
 
