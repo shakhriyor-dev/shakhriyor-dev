@@ -9,7 +9,7 @@
 </h3>
 
 
-<p align="center" style="color:#00FF41; font-weight: bold;"> 
+<p align="center" style="color:#00FF41; font-weight: bold;">
   📍 Uzbekistan, Khorezm
 </p>
 
